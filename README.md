@@ -5,7 +5,7 @@
 2. - [Github Link to trumpai](https://github.com/naveen-010/Trump-Chatbot)
 
 
-3. - [Code To contest result](https://drive.google.com/file/d/1GXifiyHyiShyEBh2E9cLa8Js60-gZg-v/view)
+3. - [Code To contest round 1](https://drive.google.com/file/d/1GXifiyHyiShyEBh2E9cLa8Js60-gZg-v/view)
 
 
 4. - [Encryption Paper](https://drive.google.com/file/d/1GgU-N2W2hiHBZFmKY0xv7fPTN0-aCiJk/view?usp=sharing)
